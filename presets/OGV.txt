@@ -1,6 +1,6 @@
 $preset = array (
-  'name' => 'Ogv',
-  'description' => 'Ogg is a free, open standard container format maintained by the Xiph.Org Foundation.',
+  'name' => 'OGV',
+  'description' => 'OGG is a free, open standard container format maintained by the Xiph.Org Foundation.',
   'settings' => array (
     'video_extension' => 'ogv',
     'video_codec' => 'theora',
