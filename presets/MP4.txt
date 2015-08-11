@@ -1,6 +1,6 @@
 $preset = array(
-    'name' => 'Mp4',
-    'description' => 'Mp4 with h246 support for iPhone, iPad and HTML5 videos',
+    'name' => 'MP4',
+    'description' => 'MP4 with h246 support for iPhone, iPad and HTML5 videos',
     'settings' => array(
         'video_extension' => 'mp4',
         'video_codec' => 'h264',
