@@ -1,6 +1,6 @@
 $preset = array(
     'name' => 'FLV',
-    'description' => 'FLv for flash videos.',
+    'description' => 'FLV for flash videos.',
     'settings' => array(
         'video_extension' => 'flv',
         'video_codec' => 'h264',
