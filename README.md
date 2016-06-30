@@ -15,3 +15,4 @@ You can check codec availability issuing ffmpeg on command line, to get working 
 ### Requeriments ###
 - Fedora: install ffmpeg from rpmfusion repositories
 - Debian: install ffmpeg from deb-multimedia repositories
+- Ubuntu: included
