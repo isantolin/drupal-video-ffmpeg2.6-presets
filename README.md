@@ -1,4 +1,4 @@
-# drupal7-video-ffmpeg2.8-presets #
+# drupal7-video-ffmpeg2_3-presets #
 
 ## Fine tuned compilation of Drupal Media Video encoder Presets ##
 
