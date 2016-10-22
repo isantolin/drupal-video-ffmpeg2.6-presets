@@ -3,7 +3,7 @@
 ## Fine tuned compilation of Drupal Media Video encoder Presets ##
 
 ### Overview ###
-- Tested on FFMpeg 2.6, 2.7, 2.8 (Compiled with all Privative Codecs).
+- Tested on FFMpeg 2.6, 2.7, 2.8, 3.0 (Compiled with all Privative Codecs).
 - Tested over "video" Development and Recommended module releases
 
 You can check codec availability issuing ffmpeg on command line, to get working this presets will output that configuration
